@@ -1,2 +1,2 @@
 # mod-highlight
-Mod highlight for Cinderboxa
+Mod highlight for Cinderbox
